@@ -10,6 +10,8 @@ This goal of the project was to conduct a Monte Carlo analysis using Excel and t
 add-in.  We extended this in Python to make a more robust simulation that can reduce the simulation error by increasing
 both the number of time steps and the number of simulations. 
 
+![Pt](docs/Pt.png)
+
 ## Team Members
 The development team members were:
 - [Daniel Fudge](https://www.linkedin.com/in/daniel-fudge)
