@@ -60,10 +60,23 @@ _Operations Research_, Vol. 54, No. 2, March-April, 2006, DOI: 10.1287/opre.1050
 
 
 ## How to execute the program
-TODO
+To run the program you need Python installed locally.  This was tested with Anaconda's 
+[distribution](https://www.anaconda.com/distribution/) of Python 3.7.  Once Python is installed you simply run the 
+following command.
+
+    >>python run.py 
 
 ## Summary of results
-TODO
+It took 1.1 seconds for 400 time steps and 16,000 simulation to predict an expected payoff of $7.08, which has a present
+value and hence option price of $6.86.  This was done with a correlation coefficient (𝜌)  of -0.7.  A subset of the time 
+histories are shown below for reference.
+
+![plot1](simulation_fixed_rho.png)  
+
+This was repeated but with 𝜌 sampled from [0.0, -0.2, -0.4] with probabilities [0.25, 0.5,. 0.25].  This caused the 
+option price to drop by about $0.2 to $6.62 with the stock price evolutions below. 
+
+![plot2](simulation.png)  
 
 ## License
 This code is copyright under the [MIT License](LICENSE).
