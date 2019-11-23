@@ -15,9 +15,9 @@ The development team members were:
 - [Daniel Fudge](https://www.linkedin.com/in/daniel-fudge)
 - [Chunan (Suzy) Zhang](https://www.linkedin.com/in/suzy-c-zhang-26234961/)
 - [Teresa Lima](https://www.linkedin.com/in/teresa-cristina-de-s%C3%A1-lima-01966453)
+- [Jeff Qiao](https://linkedin.com/in/qiaoguanfu)
 - Rita Bai
 - Junwei Lu
-- Jeff Qiao
 
 ## Theory
 This code estimates the present value of, and hence price, an European call option on a given stock.  The payout of the 
