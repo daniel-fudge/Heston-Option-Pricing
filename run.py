@@ -11,7 +11,6 @@ Output Files:
 
 import numpy as np
 import os
-from scipy import stats
 from time import time
 
 
