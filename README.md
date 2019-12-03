@@ -73,6 +73,11 @@ present value and hence option price of $0.1373.  This was done with a correlati
 
 ![plot2](simulation.png) 
 
+## Other Documents
+An Excel implementation can also found [here](docs/OMIS6000_Group1_Simulation.xlsx).  For the class we also generated a 
+[video](docs/OMIS6000_Group1_Video_v4.mp4) which steps through a [presentation](docs/OMIS6000_Group1_Presentation.pdf), 
+which you can view.
+
 ## License
 This code is copyright under the [MIT License](LICENSE).
 
